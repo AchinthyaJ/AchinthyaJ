@@ -10,9 +10,7 @@
 - ⚡ Fun fact: I'm good at drawing,singing,Piano and of course web development
 
   ## My Activities
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchinthyaJ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=AchinthyaJ)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchinthyaJ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Profile Views](https://komarev.com/ghpvc/?username=AchinthyaJ)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AchinthyaJ&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AchinthyaJ&theme=radical)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AchinthyaJ&theme=radical)
