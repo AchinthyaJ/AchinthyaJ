@@ -8,7 +8,7 @@
 - 📫 How to reach me: Hah I'm always free, you can contact me by my email: achinthyaj4dbgs@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm good at drawing,singing,Piano and of course web development
-- My Bio:bento.me/ajasj
+- My Bio: https://bento.me/ajasj
 
   ## My Activities
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchinthyaJ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Profile Views](https://komarev.com/ghpvc/?username=AchinthyaJ)
