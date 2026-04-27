@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on First-Hack
-- 🌱 I’m currently learning JS & Node.js
-- 👯 I’m looking to collaborate on Web Development
+- 🔭 I’m currently working on DeathClient
+- 🌱 I’m currently learning C#
+- 👯 I’m looking to collaborate on Web Development and for my launcher
 - 📫 How to reach me: Hah I'm always free, you can contact me by my email: achinthyaj4dbgs@gmail.com 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm good at drawing,singing,Piano and of course web development
