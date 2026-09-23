@@ -2,13 +2,12 @@
 
 
 
-- 🔭 I’m currently working on Aether-Launcher
-- 🌱 I’m currently learning C#
-- 👯 I’m looking to collaborate on Web Development and for my launcher
-- 📫 How to reach me: Hah I'm always free, you can contact me by my email: achinthyaj4dbgs@gmail.com 
+- 🔭 I’m currently working on Leviathan-OS
+- 🌱 I’m currently learning C & Rust
+- 👯 I’m looking to collaborate on Web Development, Research and on my minecraft launcher
+- 📫 How to reach me: You can email me -> achinthyaj.dev@gmail.com or message me at x.com/achuiscoding
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm good at drawing,singing,Piano and of course web development
-- My Bio: https://bento.me/ajasj
+- My Porfolio: https://achij.vercel.app
 
   ## My Activities
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AchinthyaJ&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Profile Views](https://komarev.com/ghpvc/?username=AchinthyaJ)
